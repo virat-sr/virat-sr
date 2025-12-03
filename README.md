@@ -2,7 +2,9 @@
 🔭 I’m currently working on Js, React, Node, SpringBoot<br>👯 I’m looking to collaborate on Python and MVC<br>🤝 I’m looking for help with understanding scalable AI<br>🌱 I’m currently learning GenAI and Devops<br>💬 Ask me about anything on Js, GenAI, MetaFrameworks<br>⚡ Fun fact We fail 10x times than we succeed. 
 
 # 🏵️ Badges: 
-[![An image of @viratsr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/viratsr)](https://holopin.io/@viratsr)
+[![Holopin Badge](https://holopin.io/api/user/badge?user=viratsr&index=0)](https://holopin.io/@viratsr)
+[![Holopin Badge](https://holopin.io/api/user/badge?user=viratsr&index=1)](https://holopin.io/@viratsr)
+
 
 
 ## 🌐 Socials:
