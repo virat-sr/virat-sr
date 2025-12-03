@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Js, React, Node, SpringBoot<br>👯 I’m looking to collaborate on Python and MVC<br>🤝 I’m looking for help with understanding scalable AI<br>🌱 I’m currently learning GenAI and Devops<br>💬 Ask me about anything on Js, GenAI, MetaFrameworks<br>⚡ Fun fact We fail 10x times than we succeed. 
 
+# 🏵️ Badges: 
+[![An image of @viratsr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/viratsr)](https://holopin.io/@viratsr)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@hackwiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Virat Srivastava) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@iamvirat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vsrivastava.dev@gmail.com) 
